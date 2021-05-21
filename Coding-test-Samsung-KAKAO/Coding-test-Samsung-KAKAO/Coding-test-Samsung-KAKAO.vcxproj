@@ -139,6 +139,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="게리맨더링.cpp" />
+    <ClCompile Include="공부기간.cpp" />
     <ClCompile Include="수식만들기.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
