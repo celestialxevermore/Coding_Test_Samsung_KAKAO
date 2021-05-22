@@ -141,6 +141,8 @@
     <ClCompile Include="게리맨더링.cpp" />
     <ClCompile Include="공부기간.cpp" />
     <ClCompile Include="수식만들기.cpp" />
+    <ClCompile Include="제식.cpp" />
+    <ClCompile Include="친구관계.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
