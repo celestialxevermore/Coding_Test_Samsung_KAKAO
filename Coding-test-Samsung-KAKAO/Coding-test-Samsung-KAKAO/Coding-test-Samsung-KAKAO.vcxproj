@@ -140,9 +140,19 @@
   <ItemGroup>
     <ClCompile Include="게리맨더링.cpp" />
     <ClCompile Include="공부기간.cpp" />
+    <ClCompile Include="공통 문자열.cpp" />
+    <ClCompile Include="바둑대회.cpp" />
     <ClCompile Include="수식만들기.cpp" />
+    <ClCompile Include="연구소2.cpp" />
+    <ClCompile Include="연구소3.cpp" />
+    <ClCompile Include="영화 관람.cpp" />
+    <ClCompile Include="오렌지나무.cpp" />
     <ClCompile Include="제식.cpp" />
+    <ClCompile Include="조합 연습.cpp" />
+    <ClCompile Include="조합기초.cpp" />
     <ClCompile Include="친구관계.cpp" />
+    <ClCompile Include="피자배달거리.cpp" />
+    <ClCompile Include="효율적인 공부.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
