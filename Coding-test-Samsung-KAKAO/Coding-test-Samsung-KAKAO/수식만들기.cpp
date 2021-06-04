@@ -14,8 +14,8 @@
 //	
 //
 //}Node;
-//int mini = 987654321;
-//int maxi = -1000;
+//int mini = 0x7fffffff;
+//int maxi = -1*mini;
 //
 //void DFS(int level, Node current) {
 //	Node next;
