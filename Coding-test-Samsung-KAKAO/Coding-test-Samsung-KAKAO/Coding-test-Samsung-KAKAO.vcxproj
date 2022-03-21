@@ -138,6 +138,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="test.cpp" />
     <ClCompile Include="게리맨더링.cpp" />
     <ClCompile Include="공부기간.cpp" />
     <ClCompile Include="공통 문자열.cpp" />
